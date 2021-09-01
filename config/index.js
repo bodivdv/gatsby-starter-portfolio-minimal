@@ -62,7 +62,7 @@ module.exports = {
     },
     {
       name: "CV",
-      fileName: "goldenpuppy.pdf",
+      url: "./goldenpuppy.pdf",
     },
     // {
     //   name: "Mail",
