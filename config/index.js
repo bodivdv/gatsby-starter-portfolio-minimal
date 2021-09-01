@@ -4,8 +4,8 @@ module.exports = {
   siteTitle: "Bodi Van de Voorde",
   siteShortTitle: "Bodi", // Used as logo text in header, footer, and splash screen
   siteDescription:
-    "A modern one-page portfolio with a clean yet expressive design.",
-  siteUrl: "https://gatsby-starter-portfolio-minimal.netlify.app/",
+    "Fijne kennismaking!",
+  siteUrl: "https://www.bodivandevoorde.be",
   siteLanguage: "nl_BE",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
   seoTitleSuffix: "Bodi Van de Voorde", // SEO title syntax will be e.g. "Imprint - {seoTitleSuffix}"
@@ -84,7 +84,7 @@ module.exports = {
     ],
     button: {
       useFileName: true,
-      name: "Resume",
+      name: "CV",
       fileName: "goldenpuppy.pdf", // the file has to be placed inside the static folder at the root level
       url: "", // if useFileName=false, you can set an anchor link here and use the button for navigational purposes
     },
