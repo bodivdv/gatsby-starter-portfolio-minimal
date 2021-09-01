@@ -60,6 +60,10 @@ module.exports = {
       name: "Linkedin",
       url: "https://www.linkedin.com/in/bodivandevoorde/",
     },
+    {
+      name: "CV",
+      fileName: "goldenpuppy.pdf",
+    },
     // {
     //   name: "Mail",
     //   url: "mailto:bodi.vandevoorde@outlook.com",
