@@ -2,9 +2,9 @@ module.exports = {
   //-- SITE SETTINGS -----
   author: "@konstantinmuenster",
   siteTitle: "Bodi Van de Voorde",
-  siteShortTitle: "Bodi", // Used as logo text in header, footer, and splash screen
+  siteShortTitle: "Bodi.", // Used as logo text in header, footer, and splash screen
   siteDescription:
-    "Fijne kennismaking!",
+    "De persoonlijke website van Bodi Van de Voorde",
   siteUrl: "https://www.bodivandevoorde.be",
   siteLanguage: "nl_BE",
   siteIcon: "content/favicon.png", // Relative to gatsby-config file
@@ -75,11 +75,11 @@ module.exports = {
     menu: [
       {
         name: "Wie ben ik",
-        url: "/#about",
+        url: "/#over",
       },
       {
         name: "Ervaring",
-        url: "/#projects",
+        url: "/#ervaring",
       },
       {
         name: "Contact",
